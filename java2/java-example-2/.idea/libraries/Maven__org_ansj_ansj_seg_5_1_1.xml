@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.ansj:ansj_seg:5.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.1/ansj_seg-5.1.1.jar!/" />
+      <root url="jar://D:/tomcat/apache-tomcat-8.5.23/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.1/ansj_seg-5.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.1/ansj_seg-5.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
